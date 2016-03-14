@@ -1,0 +1,9 @@
+[package]
+
+name = "symbol"
+version = "0.0.1"
+authors = [ "Andy Hanson <andy.pj.hanson@gmail.com>" ]
+
+description = "Lifetimed symbol table"
+repository = "https://github.com/andy-hanson/rust-symbol"
+license = "Unlicense"
